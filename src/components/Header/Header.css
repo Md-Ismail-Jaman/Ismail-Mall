@@ -1,0 +1,23 @@
+.header{
+    text-align: center;
+   
+}
+.header img {
+    text-align: center;
+    height: 150px;
+}
+.navbar{
+    background-color: black;
+    line-height: 40px;
+    font-size: 20px;
+}
+nav a{
+    text-decoration: none;
+    margin-right: 65px;
+    color: white;
+    padding: 5px;
+
+}
+nav a:hover{
+    background-color: gray;
+}
